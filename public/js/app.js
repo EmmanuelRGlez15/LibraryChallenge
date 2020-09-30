@@ -2897,7 +2897,7 @@ __webpack_require__.r(__webpack_exports__);
           "class": 'brown--text text-uppercase'
         }, {
           text: 'Description',
-          align: 'center',
+          align: 'left',
           value: 'description',
           "class": 'brown--text text-uppercase'
         }, {

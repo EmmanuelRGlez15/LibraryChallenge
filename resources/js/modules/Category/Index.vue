@@ -69,7 +69,7 @@ export default {
 					},
 					{
 						text: 'Description',
-						align: 'center',
+						align: 'left',
 						value: 'description',
 						class: 'brown--text text-uppercase'
 					},
