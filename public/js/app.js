@@ -2423,13 +2423,7 @@ function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len 
           value: 'actions',
           "class": 'brown--text text-uppercase'
         }],
-        items: [{
-          name: 'HP',
-          author: 'JKR',
-          category: 'FICCIÖN',
-          status: 'PRESTADO',
-          actions: []
-        }],
+        items: [],
         search: ''
       }
     };
